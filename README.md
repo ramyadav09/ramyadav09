@@ -21,7 +21,7 @@ I care about clean, readable, and maintainable code, and I enjoy learning by bui
 ## 💻 Tech Stack
 
 ### Frontend
-HTML • CSS • JavaScript • React • Redux • React Query • React Router
+HTML • CSS • JavaScript • React • Tailwind CSS • Redux • React Query • React Router
 
 ### Backend
 Python • FastAPI • Pydantic • Node.js • Express.js • Socket.IO
