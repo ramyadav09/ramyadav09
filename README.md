@@ -24,13 +24,13 @@ I care about clean, readable, and maintainable code, and I enjoy learning by bui
 HTML • CSS • JavaScript • React • Redux • React Query • React Router
 
 ### Backend
-Python • FastAPI • Node.js • Express.js • Socket.IO
+Python • FastAPI • Pydantic • Node.js • Express.js • Socket.IO
+
+### Databases
+PostgreSQL • MySQL • MongoDB
 
 ### Mobile
 React Native
-
-### Database
-MongoDB
 
 ### Generative AI
 LangChain • LLMs • RAG • AI Agents
